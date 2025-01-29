@@ -18,6 +18,7 @@ AltTexture({
         name = "Jokers"
     },
     display_pos = 'j_hack',
+    original_sheet = true
 })
 
 TexturePack{
