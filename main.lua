@@ -1,13 +1,13 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Finn's Pokemon Jokers
 --- MOD_ID: FinnPokemon
+--- PREFIX: finnpoke
 --- MOD_AUTHOR: [Finnaware]
---- MOD_DESCRIPTION: Overhauls the game cards to be more pokémon themed!
+--- MOD_DESCRIPTION: Overhauls the game cards to be pokémon themed!
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokemon Jokers
---- PREFIX: finnpoke
---- VERSION: 1.7.1
+--- VERSION: 1.8.1
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
@@ -29,7 +29,9 @@ TexturePack{
     loc_txt  = {
         name = "Finn's Pokemon Jokers",
         text = {
-            "Overhauls the game cards", "to be more pokémon themed!"
+            "Overhauls the game cards to",
+            "be pokémon themed!",
+            "Made by {C:dark_edition}Finnaware"
         },
     }
 }
