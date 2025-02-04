@@ -7,7 +7,7 @@
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokemon Jokers
 --- PREFIX: finnpoke
---- VERSION: 1.6.1
+--- VERSION: 1.7.1
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
