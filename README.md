@@ -140,11 +140,11 @@ Requires [Malverk](https://github.com/Eremel/Malverk0)
 134. ??? as The Order
 135. ??? as The Tribe
 136. Serperior as Stuntman
-137. ??? as Invisible Joker
+137. Kecleon as Invisible Joker
 138. Smeargle as Brainstorm
 139. ??? as Satellite
 140. ??? as Shoot the Moon
-141. ??? as Driver's License
+141. Flutter Mane as Driver's License
 142. Chimecho as Cartomancer
 143. Minior as Astronomer
 144. Slugma as Burnt Joker
