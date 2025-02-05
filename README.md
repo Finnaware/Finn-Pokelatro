@@ -1,8 +1,8 @@
 Overhauls the game cards to be pokémon themed! (WIP)
 
-Requires https://github.com/Eremel/Malverk
+Requires [Malverk](https://github.com/Eremel/Malverk0)
 
-Current List of Pokémon and Joker Pairs
+## Current List of Pokémon and Joker Pairs
 
 1. Eevee as Joker
 2. Greedent as Greedy Joker
