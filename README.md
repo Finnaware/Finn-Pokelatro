@@ -1,6 +1,6 @@
 Overhauls the game cards to be pokémon themed! (WIP)
 
-Requires [Malverk](https://github.com/Eremel/Malverk0)
+Requires [Malverk](https://github.com/Eremel/Malverk)
 
 ## Current List of Pokémon and Joker Pairs
 
