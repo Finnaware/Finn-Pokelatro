@@ -1,3 +1,3 @@
-Overhauls the game cards to be more pokémon themed! (WIP)
+Overhauls the game cards to be more themed! (WIP)
 
 Requires https://github.com/Eremel/Malverk
