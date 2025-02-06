@@ -21,23 +21,23 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 15. Absol as Crafty Joker
 16. Dugtrio as Half Joker
 17. Pikachu? as Joker Stencil
-18. ??? as Four Fingers
+18. Kommo-o as Four Fingers
 19. Mime Jr. as Mime
-20. ??? as Credit Card
+20. Furfrou as Credit Card
 21. ??? as Ceremonial Dagger
 22. ??? as Banner
 23. ??? as Mystic Summit
-24. ??? as Marble Joker
+24. Geodude as Marble Joker
 25. ??? as Loyalty Card
 26. ??? as 8 Ball
 27. Missingno. as Misprint
 28. ??? as Dusk
 29. ??? as Raised Fist
-30. ??? as Chaos the Clown
+30. Mr. Mime as Chaos the Clown
 31. ??? as Fibonacci
 32. Aggron as Steel Joker
 33. Gengar as Scary Face
-34. ??? as Abstract Joker
+34. Gastly as Abstract Joker
 35. ??? as Delayed Gratification
 36. Lopunny as Hack
 37. ??? as Pareidolia
@@ -47,9 +47,9 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 41. Alakazam as Scholar
 42. ??? as Business Card
 43. Cosmog as Supernova
-44. ??? as Ride the Bus
+44. Shuckle as Ride the Bus
 45. Beheeyem as Space Joker
-46. ??? as Egg
+46. Exeggcute as Egg
 47. Thievul as Burglar
 48. Mimikyu as Blackboard
 49. Lileep as Runner
@@ -62,7 +62,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 56. ??? as Hiker
 57. Staryu as Faceless Joker
 58. Maractus as Green Joker
-59. ??? as Superposition
+59. Magnemite as Superposition
 60. Mienshao as To Do List
 61. Tropius as Cavendish
 62. Meowscarada as Card Sharp
@@ -86,7 +86,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 80. Trubbish as Turtle Bean
 81. ??? as Erosion
 82. ??? as Reserved Parking
-83. ??? as Mail-In Rebate
+83. Pelipper as Mail-In Rebate
 84. ??? as To the Moon
 85. Porygon-Z as Hallucination
 86. Delphox as Fortune Teller
@@ -99,13 +99,13 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 93. Tauros as Bull
 94. ??? as Diet Cola
 95. ??? as Trading Card
-96. ??? as Flash Card
+96. Unown and Scorbunny as Flash Card
 97. ??? as Popcorn
 98. ??? as Spare Trousers
 99. Relicanth as Ancient Joker
 100. ??? as Ramen
 101. ??? as Walkie Talkie
-102. ??? as Seltzer
+102. Goodra as Seltzer
 103. ??? as Castle
 104. Hisuian Voltorb as Smiley Face
 105. ??? as Campfire
@@ -132,7 +132,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 126. ??? as Oops! All 6s
 127. ??? as The Idol
 128. ??? as Seeing Double
-129. ??? as Matador
+129. Incineroar as Matador
 130. Sawsbuck as Hit the Road
 131. ??? as The Duo
 132. ??? as The Trio
@@ -152,5 +152,5 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 146. Arceus as Canio
 147. Dialga as Triboulet
 148. Giratina as Yorick
-149. ??? as Chicot
+149. Galarian Weezing as Chicot
 150. Palkia as Perkeo
