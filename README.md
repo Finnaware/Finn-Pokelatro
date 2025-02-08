@@ -2,6 +2,12 @@ Overhauls the game cards to be pokémon themed! (WIP)
 
 Requires [Malverk](https://github.com/Eremel/Malverk)
 
+## How to download and install
+
+Click the "<> Code" button then click "Download zip"
+
+Then extract the folder, and move them to your Balatro mods folder
+
 ## Current List of Pokémon and Joker Pairs
 
 1. Eevee as Joker
@@ -28,7 +34,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 22. ??? as Banner
 23. ??? as Mystic Summit
 24. Geodude as Marble Joker
-25. ??? as Loyalty Card
+25. Sinistea as Loyalty Card
 26. ??? as 8 Ball
 27. Missingno. as Misprint
 28. ??? as Dusk
@@ -40,7 +46,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 34. Gastly as Abstract Joker
 35. ??? as Delayed Gratification
 36. Lopunny as Hack
-37. ??? as Pareidolia
+37. Klefki as Pareidolia
 38. Mankey as Gros Michel
 39. Seviper as Even Steven
 40. Zangoose as Odd Todd
@@ -68,7 +74,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 62. Meowscarada as Card Sharp
 63. Pansear as Red Card
 64. Scream Tail as Madness
-65. ??? as Square Joker
+65. Charjabug as Square Joker
 66. Litwick as Séance
 67. Pidgey as Riff-Raff
 68. Crobat as Vampire
@@ -78,13 +84,13 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 72. Slowking as Baron
 73. Swablu as Cloud 9
 74. ??? as Rocket
-75. ??? as Obelisk
+75. Stonjourner as Obelisk
 76. Yamask as Midas Mask
 77. Hawlucha as Luchador
 78. Zoroark as Photograph
 79. Delibird as Gift Card
 80. Trubbish as Turtle Bean
-81. ??? as Erosion
+81. Spinarak as Erosion
 82. ??? as Reserved Parking
 83. Pelipper as Mail-In Rebate
 84. ??? as To the Moon
@@ -98,10 +104,10 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 92. Lucario as Baseball Card
 93. Tauros as Bull
 94. ??? as Diet Cola
-95. ??? as Trading Card
+95. Charizard as Trading Card
 96. Unown and Scorbunny as Flash Card
 97. ??? as Popcorn
-98. ??? as Spare Trousers
+98. Scrafty as Spare Trousers
 99. Relicanth as Ancient Joker
 100. ??? as Ramen
 101. ??? as Walkie Talkie
@@ -124,14 +130,14 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 118. ??? as Arrowhead
 119. ??? as Onyx Agate
 120. Shedinja as Glass Joker
-121. ??? as Showman
+121. Hoopa as Showman
 122. Sunflora as Flower Pot
 123. Ditto as Blueprint
 124. Eevee as Wee Joker
 125. Cinccino as Merry Andy
 126. ??? as Oops! All 6s
 127. ??? as The Idol
-128. ??? as Seeing Double
+128. Meowstic (Male and Female) as Seeing Double
 129. Incineroar as Matador
 130. Sawsbuck as Hit the Road
 131. ??? as The Duo
