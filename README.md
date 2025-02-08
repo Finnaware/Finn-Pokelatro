@@ -5,6 +5,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 ## How to download and install
 
 Click the "<> Code" button then click "Download zip"
+
 Then extract the folder, and move them to your Balatro mods folder
 
 ## Current List of Pokémon and Joker Pairs
