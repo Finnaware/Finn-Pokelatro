@@ -2,11 +2,20 @@ Overhauls the game cards to be pokémon themed! (WIP)
 
 Requires [Malverk](https://github.com/Eremel/Malverk)
 
+Also joins us on our Thread on the Balatro discord [here](https://discord.com/channels/1116389027176787968/1326197297553342505)
+
 ## How to download and install
 
 Click the "<> Code" button then click "Download zip"
 
 Then extract the folder, and move them to your Balatro mods folder
+
+## List of people who helped me with suggestions! (Dicord Usernames)
+
+kenidur1561
+dusqii
+thezamos
+kostyurik
 
 ## Current List of Pokémon and Joker Pairs
 
