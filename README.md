@@ -65,7 +65,7 @@ Then extract the folder, and move them to your Balatro mods folder
 53. Alolan Sandslash as Blue Joker
 54. Medicham as Sixth Sense
 55. Lunala as Constellation
-56. ??? as Hiker
+56. Galarian Weezing as Hiker
 57. Staryu as Faceless Joker
 58. Maractus as Green Joker
 59. Magnemite as Superposition
@@ -83,7 +83,7 @@ Then extract the folder, and move them to your Balatro mods folder
 71. ??? as Vagabond
 72. Slowking as Baron
 73. Swablu as Cloud 9
-74. ??? as Rocket
+74. Cresselia as Rocket
 75. Stonjourner as Obelisk
 76. Yamask as Midas Mask
 77. Hawlucha as Luchador
@@ -136,15 +136,15 @@ Then extract the folder, and move them to your Balatro mods folder
 124. Eevee as Wee Joker
 125. Cinccino as Merry Andy
 126. ??? as Oops! All 6s
-127. ??? as The Idol
+127. Tapu-Lele as The Idol
 128. Meowstic (Male and Female) as Seeing Double
 129. Incineroar as Matador
 130. Sawsbuck as Hit the Road
-131. ??? as The Duo
-132. ??? as The Trio
-133. ??? as The Family
-134. ??? as The Order
-135. ??? as The Tribe
+131. Latios and Latias as The Duo
+132. Uxie, Mesprit and Azelf as The Trio
+133. Maushold (Family of Four) as The Family
+134. Falinks as The Order
+135. Zarude as The Tribe
 136. Serperior as Stuntman
 137. Kecleon as Invisible Joker
 138. Smeargle as Brainstorm
@@ -157,6 +157,6 @@ Then extract the folder, and move them to your Balatro mods folder
 145. ??? as Bootstraps
 146. Arceus as Canio
 147. Dialga as Triboulet
-148. Giratina as Yorick
-149. Galarian Weezing as Chicot
-150. Palkia as Perkeo
+148. Palkia as Yorick
+149. Yveltal as Chicot
+150. Giratina as Perkeo
