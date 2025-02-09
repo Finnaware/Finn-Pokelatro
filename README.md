@@ -12,10 +12,7 @@ Then extract the folder, and move them to your Balatro mods folder
 
 ## List of people who helped me with suggestions! (Dicord Usernames)
 
-kenidur1561
-dusqii
-thezamos
-kostyurik
+kenidur1561, dusqii, thezamos, kostyurik
 
 ## Current List of Pokémon and Joker Pairs
 
