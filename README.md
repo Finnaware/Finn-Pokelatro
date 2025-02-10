@@ -123,7 +123,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 105. ??? as Campfire
 106. ??? as Golden Ticket
 107. Marowak as Mr.Bones
-108. ??? as Acrobat
+108. Throh and Sawk as Acrobat
 109. Girafarig and Farigiraf as Sock and Buskin
 110. Dhelmise  as Swashbuckler
 111. Kricketune  as Troubadour
@@ -141,7 +141,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 123. Ditto as Blueprint
 124. Eevee as Wee Joker
 125. Cinccino as Merry Andy
-126. ??? as Oops! All 6s
+126. Vivillon (Jungle Pattern) as Oops! All 6s
 127. Tapu-Lele as The Idol
 128. Meowstic (Male and Female) as Seeing Double
 129. Incineroar as Matador
