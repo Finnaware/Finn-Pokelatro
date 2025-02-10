@@ -2,7 +2,7 @@ Overhauls the game cards to be pokémon themed! (WIP)
 
 Requires [Malverk](https://github.com/Eremel/Malverk)
 
-Also joins us on our Thread on the Balatro discord [here](https://discord.com/channels/1116389027176787968/1326197297553342505)
+Also joins us on our Thread in the official Balatro discord [here](https://discord.com/channels/1116389027176787968/1326197297553342505)
 
 ## How to download and install
 
