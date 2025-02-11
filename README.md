@@ -67,7 +67,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 49. Lileep as Runner
 50. Vanillite as Ice Cream
 51. Mew as DNA
-52. ??? as Splash
+52. Magikarp as Splash
 53. Alolan Sandslash as Blue Joker
 54. Medicham as Sixth Sense
 55. Lunala as Constellation
@@ -86,7 +86,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 68. Crobat as Vampire
 69. Gardevoir as Shortcut
 70. Rotom as Hologram
-71. ??? as Vagabond
+71. AZ Floette as Vagabond
 72. Slowking as Baron
 73. Swablu as Cloud 9
 74. Cresselia as Rocket
@@ -97,9 +97,9 @@ kenidur1561, dusqii, thezamos, kostyurik
 79. Delibird as Gift Card
 80. Trubbish as Turtle Bean
 81. Spinarak as Erosion
-82. ??? as Reserved Parking
+82. Varoom and Revavroom as Reserved Parking
 83. Pelipper as Mail-In Rebate
-84. ??? as To the Moon
+84. Dachsbun as To the Moon
 85. Porygon-Z as Hallucination
 86. Delphox as Fortune Teller
 87. ??? as Juggler
@@ -128,8 +128,8 @@ kenidur1561, dusqii, thezamos, kostyurik
 110. Dhelmise  as Swashbuckler
 111. Kricketune  as Troubadour
 112. ??? as Certificate
-113. ??? as Smeared Joker
-114. ??? as Throwback
+113. Alolan Muk as Smeared Joker
+114. Nidorino as Throwback
 115. ??? as Hanging Chad
 116. ??? as Rough Gem
 117. ??? as Bloodstone
@@ -154,7 +154,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 136. Serperior as Stuntman
 137. Kecleon as Invisible Joker
 138. Smeargle as Brainstorm
-139. ??? as Satellite
+139. Mega Rayquaza and Deoxys (Normal) as Satellite
 140. ??? as Shoot the Moon
 141. Flutter Mane as Driver's License
 142. Chimecho as Cartomancer
