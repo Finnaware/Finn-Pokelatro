@@ -18,7 +18,8 @@ AltTexture({
         name = "Jokers"
     },
     display_pos = 'j_hack',
-    original_sheet = true
+    original_sheet = true,
+    localization = true
 })
 
 TexturePack{
@@ -26,12 +27,4 @@ TexturePack{
     textures = {
     'finnpoke_finn_poke_jokers'
     },
-    loc_txt  = {
-        name = "Finn's Pokémon Jokers",
-        text = {
-            "Overhauls the game cards to",
-            "be pokémon themed!",
-            "Made by {C:dark_edition}Finnaware"
-        },
-    }
 }
