@@ -14,9 +14,6 @@ AltTexture({
     key = 'finn_poke_jokers',
     set = 'Joker',
     path = 'finn_poke_jokers.png',
-    loc_txt = {
-        name = "Jokers"
-    },
     display_pos = 'j_hack',
     original_sheet = true,
     localization = true
