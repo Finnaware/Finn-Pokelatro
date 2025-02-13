@@ -57,7 +57,7 @@ return {
                     name="Slugma",
                 },
                 j_business={
-                    name="Business Card",
+                    name="Trainer Card",
                 },
                 j_caino={
                     name="Arceus",
@@ -78,7 +78,7 @@ return {
                     name="Cavendish Tropius",
                 },
                 j_ceremonial={
-                    name="Ceremonial Dagger",
+                    name="Ceremonial Honedge",
                 },
                 j_certificate={
                     name="Certificate",
@@ -150,7 +150,7 @@ return {
                     name="The Family",
                 },
                 j_fibonacci={
-                    name="Fibonacci",
+                    name="Omanacci",
                 },
                 j_flash={
                     name="Flash Card",
@@ -171,7 +171,7 @@ return {
                     name="Shedinja",
                 },
                 j_gluttenous_joker={
-                    name="Gluttenous Alcremie",
+                    name="Gluttonous Alcremie",
                 },
                 j_golden={
                     name="Gholdengo",
@@ -186,7 +186,7 @@ return {
                     name="Mankey",
                 },
                 j_hack={
-                    name="The one Joke(r)",
+                    name="Hack",
                 },
                 j_half={
                     name="Dugtrio",
@@ -264,7 +264,7 @@ return {
                     name="MissingNo.",
                 },
                 j_mr_bones={
-                    name="Marowak",
+                    name="Mr. Marowak",
                 },
                 j_mystic_summit={
                     name="Mystic Steelix",
@@ -333,7 +333,7 @@ return {
                     name="Scary Face",
                 },
                 j_scholar={
-                    name="Scholar",
+                    name="Alakazam",
                 },
                 j_seance={
                     name="Séance",

@@ -7,7 +7,7 @@
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokémon Jokers
---- VERSION: 1.15.0
+--- VERSION: 1.16.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
