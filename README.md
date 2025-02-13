@@ -38,7 +38,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 20. Furfrou as Credit Card
 21. ??? as Ceremonial Dagger
 22. ??? as Banner
-23. ??? as Mystic Summit
+23. Steelix as Mystic Summit
 24. Geodude as Marble Joker
 25. Sinistea as Loyalty Card
 26. ??? as 8 Ball
@@ -102,8 +102,8 @@ kenidur1561, dusqii, thezamos, kostyurik
 84. Dachsbun as To the Moon
 85. Porygon-Z as Hallucination
 86. Delphox as Fortune Teller
-87. ??? as Juggler
-88. ??? as Drunkard
+87. Minun as Juggler
+88. Plusle as Drunkard
 89. Onix as Stone Joker
 90. Gholdengo as Golden Joker
 91. Meowth as Lucky Cat
