@@ -36,17 +36,17 @@ kenidur1561, dusqii, thezamos, kostyurik
 18. Kommo-o as Four Fingers
 19. Mime Jr. as Mime
 20. Furfrou as Credit Card
-21. ??? as Ceremonial Dagger
+21. Honedge as Ceremonial Dagger
 22. ??? as Banner
 23. Steelix as Mystic Summit
 24. Geodude as Marble Joker
 25. Sinistea as Loyalty Card
 26. ??? as 8 Ball
 27. Missingno. as Misprint
-28. ??? as Dusk
+28. Dusclops as Dusk
 29. ??? as Raised Fist
 30. Mr. Mime as Chaos the Clown
-31. ??? as Fibonacci
+31. Omanyte as Fibonacci
 32. Aggron as Steel Joker
 33. Gengar as Scary Face
 34. Gastly as Abstract Joker
@@ -57,7 +57,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 39. Seviper as Even Steven
 40. Zangoose as Odd Todd
 41. Alakazam as Scholar
-42. ??? as Business Card
+42. Trainer Card (Braixen) as Business Card
 43. Cosmog as Supernova
 44. Shuckle as Ride the Bus
 45. Beheeyem as Space Joker
@@ -155,7 +155,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 137. Kecleon as Invisible Joker
 138. Smeargle as Brainstorm
 139. Mega Rayquaza and Deoxys (Normal) as Satellite
-140. ??? as Shoot the Moon
+140. Inteleon as Shoot the Moon
 141. Flutter Mane as Driver's License
 142. Chimecho as Cartomancer
 143. Minior as Astronomer
