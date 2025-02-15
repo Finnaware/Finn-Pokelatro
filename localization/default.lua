@@ -3,7 +3,7 @@ return {
         alt_texture = {
             alt_tex_finnpoke_finn_poke_jokers = {
                 j_8_ball={
-                    name="8 Ball",
+                    name="Rowlet",
                 },
                 j_abstract={
                     name="Ghastly",
@@ -42,7 +42,7 @@ return {
                     name="Ditto",
                 },
                 j_bootstraps={
-                    name="Bootstraps",
+                    name="Tsareena",
                 },
                 j_brainstorm={
                     name="Smeargle",
@@ -72,7 +72,7 @@ return {
                     name="Cartomancer",
                 },
                 j_castle={
-                    name="Castle",
+                    name="Palossand",
                 },
                 j_cavendish={
                     name="Cavendish Tropius",
@@ -204,7 +204,7 @@ return {
                     name="Hit the Road",
                 },
                 j_hologram={
-                    name="Hologram",
+                    name="Rotom",
                 },
                 j_ice_cream={
                     name="Vanillite",
@@ -300,7 +300,7 @@ return {
                     name="Raised Fist",
                 },
                 j_ramen={
-                    name="Ramen",
+                    name="Sinistcha",
                 },
                 j_red_card={
                     name="Red Card",
@@ -435,7 +435,7 @@ return {
                     name="Crobat",
                 },
                 j_walkie_talkie={
-                    name="Walkie Talkie",
+                    name="Rotom Pokédex",
                 },
                 j_wee={
                     name="Vee Joker",
