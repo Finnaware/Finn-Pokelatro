@@ -120,7 +120,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 102. Goodra as Seltzer
 103. Palossand as Castle
 104. Hisuian Voltorb as Smiley Face
-105. ??? as Campfire
+105. Charmeleon as Campfire
 106. ??? as Golden Ticket
 107. Marowak as Mr.Bones
 108. Throh and Sawk as Acrobat
@@ -130,11 +130,11 @@ kenidur1561, dusqii, thezamos, kostyurik
 112. Poltchageist and Talonflame as Certificate
 113. Alolan Muk as Smeared Joker
 114. Nidorino as Throwback
-115. ??? as Hanging Chad
-116. ??? as Rough Gem
-117. ??? as Bloodstone
-118. ??? as Arrowhead
-119. ??? as Onyx Agate
+115. Wugtrio as Hanging Chad
+116. Ting-Lu as Rough Gem
+117. Chi-Yu as Bloodstone
+118. Chien-Pao as Arrowhead
+119. Wo-Chien as Onyx Agate
 120. Shedinja as Glass Joker
 121. Hoopa as Showman
 122. Sunflora as Flower Pot
