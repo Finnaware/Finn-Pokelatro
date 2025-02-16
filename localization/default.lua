@@ -15,7 +15,7 @@ return {
                     name="Relicanth",
                 },
                 j_arrowhead={
-                    name="Arrowhead",
+                    name="Chien-Pao",
                 },
                 j_astronomer={
                     name="Astronomer",
@@ -33,7 +33,7 @@ return {
                     name="Mimikyu Board",
                 },
                 j_bloodstone={
-                    name="Bloodstone",
+                    name="Chi-Yu",
                 },
                 j_blue_joker={
                     name="Alolan Sandslash",
@@ -276,7 +276,7 @@ return {
                     name="Odd Zangoose",
                 },
                 j_onyx_agate={
-                    name="Onyx Agate",
+                    name="Wo-Chien",
                 },
                 j_oops={
                     name="Oops! All Vivillons",
@@ -315,13 +315,13 @@ return {
                     name="Riff-Raff",
                 },
                 j_ring_master={
-                    name="Showman",
+                    name="Hoopa",
                 },
                 j_rocket={
                     name="Cresselia",
                 },
                 j_rough_gem={
-                    name="Rough Gem",
+                    name="Ting-Lu",
                 },
                 j_runner={
                     name="Lileep",
