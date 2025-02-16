@@ -41,7 +41,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 23. Steelix as Mystic Summit
 24. Geodude as Marble Joker
 25. Sinistea as Loyalty Card
-26. ??? as 8 Ball
+26. Rowlet as 8 Ball
 27. Missingno. as Misprint
 28. Dusclops as Dusk
 29. ??? as Raised Fist
@@ -115,10 +115,10 @@ kenidur1561, dusqii, thezamos, kostyurik
 97. ??? as Popcorn
 98. Scrafty as Spare Trousers
 99. Relicanth as Ancient Joker
-100. ??? as Ramen
-101. ??? as Walkie Talkie
+100. Sinistcha as Ramen
+101. Rotom Pokédex as Walkie Talkie
 102. Goodra as Seltzer
-103. ??? as Castle
+103. Palossand as Castle
 104. Hisuian Voltorb as Smiley Face
 105. ??? as Campfire
 106. ??? as Golden Ticket
@@ -127,7 +127,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 109. Girafarig and Farigiraf as Sock and Buskin
 110. Dhelmise  as Swashbuckler
 111. Kricketune  as Troubadour
-112. ??? as Certificate
+112. Poltchageist and Talonflame as Certificate
 113. Alolan Muk as Smeared Joker
 114. Nidorino as Throwback
 115. ??? as Hanging Chad
@@ -160,7 +160,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 142. Chimecho as Cartomancer
 143. Minior as Astronomer
 144. Slugma as Burnt Joker
-145. ??? as Bootstraps
+145. Tsareena as Bootstraps
 146. Arceus as Canio
 147. Dialga as Triboulet
 148. Palkia as Yorick
