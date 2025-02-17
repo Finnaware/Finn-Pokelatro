@@ -7,7 +7,7 @@
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokélatro
---- VERSION: 1.19.0
+--- VERSION: 1.19.1
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
