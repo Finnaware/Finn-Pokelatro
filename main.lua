@@ -1,13 +1,13 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Finn's Pokémon Jokers
+--- MOD_NAME: Finn's Pokélatro
 --- MOD_ID: FinnPokemon
 --- PREFIX: finnpoke
 --- MOD_AUTHOR: [Finnaware]
---- MOD_DESCRIPTION: Overhauls the game cards to be pokémon themed!
+--- MOD_DESCRIPTION: Retextures parts of the game to be pokémon themed!
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
---- DISPLAY_NAME: Finn's Pokémon Jokers
---- VERSION: 1.18.0
+--- DISPLAY_NAME: Finn's Pokélatro
+--- VERSION: 1.19.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture({

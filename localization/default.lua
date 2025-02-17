@@ -108,13 +108,13 @@ return {
                     name="Credit Card",
                 },
                 j_delayed_grat={
-                    name="Delayed Gratification",
+                    name="Klink",
                 },
                 j_devious={
                     name="Devious Sylveon",
                 },
                 j_diet_cola={
-                    name="Diet Cola",
+                    name="Soda Pop",
                 },
                 j_dna={
                     name="DNA",
@@ -294,7 +294,7 @@ return {
                     name="Zoroark Photograph",
                 },
                 j_popcorn={
-                    name="Popcorn",
+                    name="Accelgor",
                 },
                 j_raised_fist={
                     name="Raised Fist",
@@ -399,7 +399,7 @@ return {
                     name="Throwback",
                 },
                 j_ticket={
-                    name="Golden Ticket",
+                    name="Gimmighoul",
                 },
                 j_to_the_moon={
                     name="To the Moon",
@@ -457,10 +457,10 @@ return {
         },
         texture_packs = {
             texpack_finnpoke_finn_cards = {
-                name = "Finn's Pokémon Jokers",
+                name = "Finn's Pokélatro",
                 text = {
-                    "Overhauls the game cards to",
-                    "be pokémon themed!",
+                    "Retextures parts of the game",
+                    "to be pokémon themed!",
                     "Made by {C:dark_edition}Finnaware"
                 }
             }
