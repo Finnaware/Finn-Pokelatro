@@ -1,4 +1,4 @@
-Overhauls the game cards to be pokémon themed! (WIP)
+Retextures parts of the game be to be pokémon themed!
 
 Requires [Malverk](https://github.com/Eremel/Malverk)
 
@@ -6,13 +6,13 @@ Also joins us on our Thread in the official Balatro discord [here](https://disco
 
 ## How to download and install
 
-Click the "<> Code" button then click "Download zip"
+Click the "<> Code" button then click "Download zip" 
 
-Then extract the folder, and move them to your Balatro mods folder
+Then extract the folder, and move them to your Balatro mods folder, to this to both this mod and Malverk and it should work fine
 
 ## List of people who helped me with suggestions! (Discord Usernames)
 
-kenidur1561, dusqii, thezamos, kostyurik
+kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n
 
 ## Current List of Pokémon and Joker Pairs
 
@@ -37,20 +37,20 @@ kenidur1561, dusqii, thezamos, kostyurik
 19. Mime Jr. as Mime
 20. Furfrou as Credit Card
 21. Honedge as Ceremonial Dagger
-22. ??? as Banner
+22. Chimecho as Banner
 23. Steelix as Mystic Summit
 24. Geodude as Marble Joker
 25. Sinistea as Loyalty Card
 26. Rowlet as 8 Ball
 27. Missingno. as Misprint
 28. Dusclops as Dusk
-29. ??? as Raised Fist
+29. Annihilape as Raised Fist
 30. Mr. Mime as Chaos the Clown
 31. Omanyte as Fibonacci
 32. Aggron as Steel Joker
 33. Gengar as Scary Face
 34. Gastly as Abstract Joker
-35. ??? as Delayed Gratification
+35. Klink as Delayed Gratification
 36. Lopunny as Hack
 37. Klefki as Pareidolia
 38. Mankey as Gros Michel
@@ -109,10 +109,10 @@ kenidur1561, dusqii, thezamos, kostyurik
 91. Meowth as Lucky Cat
 92. Lucario as Baseball Card
 93. Tauros as Bull
-94. ??? as Diet Cola
+94. Soda Pop (Dipplin) as Diet Cola
 95. Charizard as Trading Card
 96. Unown and Scorbunny as Flash Card
-97. ??? as Popcorn
+97. Accelgor as Popcorn
 98. Scrafty as Spare Trousers
 99. Relicanth as Ancient Joker
 100. Sinistcha as Ramen
@@ -121,7 +121,7 @@ kenidur1561, dusqii, thezamos, kostyurik
 103. Palossand as Castle
 104. Hisuian Voltorb as Smiley Face
 105. Charmeleon as Campfire
-106. ??? as Golden Ticket
+106. Gimmighoul as Golden Ticket
 107. Marowak as Mr.Bones
 108. Throh and Sawk as Acrobat
 109. Girafarig and Farigiraf as Sock and Buskin
