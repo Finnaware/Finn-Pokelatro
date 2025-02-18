@@ -141,7 +141,7 @@ return {
                     name="Spinarak",
                 },
                 j_even_steven={
-                    name="Even Serperior",
+                    name="Even Seviper",
                 },
                 j_faceless={
                     name="Staryu",
