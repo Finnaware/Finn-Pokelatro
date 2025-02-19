@@ -7,7 +7,7 @@
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokélatro
---- VERSION: 1.19.2
+--- VERSION: 2.0.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
@@ -19,9 +19,18 @@ AltTexture({
     localization = true
 })
 
+AltTexture({
+    key = 'finn_poke_planets',
+    set = 'Planet',
+    path = 'finn_poke_planets.png',
+    original_sheet = true,
+    localization = true
+})
+
 TexturePack{
     key = 'finn_cards',
     textures = {
-    'finnpoke_finn_poke_jokers'
+    'finnpoke_finn_poke_jokers',
+    'finnpoke_finn_poke_planets'
     },
 }
