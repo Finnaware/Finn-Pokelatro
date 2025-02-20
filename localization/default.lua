@@ -1,43 +1,84 @@
 return {
+    misc = {
+        dictionary = {
+            r_region = 'Region'
+        },
+    },
+
     descriptions = {
         alt_texture = {
+            alt_tex_finnpoke_finn_poke_boosters = {
+                p_buffoon_normal = {
+                    name = "Pokémon Pack",
+                },
+                p_buffoon_jumbo = {
+                    name = "Jumbo Pokémon Pack",
+                },
+                p_buffoon_mega = {
+                    name = "Mega Pokémon Pack",
+                },
+                p_celestial_jumbo = {
+                    name = "Jumbo Region Pack",
+                },
+                p_celestial_mega = {
+                    name = "Mega Region Pack",
+                },
+                p_celestial_normal = {
+                    name = "Region Pack",
+                },
+                name = "Boosters"
+            },
+
             alt_tex_finnpoke_finn_poke_planets = {
                 c_ceres = {
                     name = "Almia",
+                    badge = "badge_region"
                 },
                 c_earth = {
                     name = "Sinnoh",
+                    badge = "badge_region"
                 },
                 c_eris = {
                     name = "Fiore",
+                    badge = "badge_region"
                 },
                 c_jupiter = {
                     name = "Kalos",
+                    badge = "badge_region"
                 },
                 c_mars = {
                     name = "Unova",
+                    badge = "badge_region"
                 },
                 c_mercury = {
                     name = "Johto",
+                    badge = "badge_region"
                 },
                 c_neptune = {
                     name = "Paldea",
+                    badge = "badge_region"
                 },
                 c_planet_x = {
                     name = "Orre",
+                    badge = "badge_region"
                 },
                 c_pluto = {
                     name = "Kanto",
+                    badge = "badge_region"
                 },
                 c_saturn = {
                     name = "Alola",
+                    badge = "badge_region"
                 },
                 c_uranus = {
                     name = "Galar",
+                    badge = "badge_region"
                 },
                 c_venus = {
                     name = "Hoenn",
+                    badge = "badge_region"
                 },
+                name = "Planets"
             },
 
             alt_tex_finnpoke_finn_poke_jokers = {
