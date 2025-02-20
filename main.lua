@@ -7,7 +7,7 @@
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokélatro
---- VERSION: 2.0.0
+--- VERSION: 2.1.0
 --- DEPENDENCIES: [malverk]
 
 Malverk.badges.badge_region = function(self, card, badges)

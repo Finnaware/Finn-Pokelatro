@@ -17,7 +17,16 @@ return {
                 p_buffoon_mega = {
                     name = "Mega Pokémon Pack",
                 },
-                name = Boosters
+                p_celestial_jumbo = {
+                    name = "Jumbo Region Pack",
+                },
+                p_celestial_mega = {
+                    name = "Mega Region Pack",
+                },
+                p_celestial_normal = {
+                    name = "Region Pack",
+                },
+                name = "Boosters"
             },
 
             alt_tex_finnpoke_finn_poke_planets = {
