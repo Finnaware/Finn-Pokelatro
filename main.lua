@@ -47,3 +47,10 @@ TexturePack{
     'finnpoke_finn_poke_boosters'
     },
 }
+
+SMODS.Atlas {
+    key = 'modicon',
+    px = 32,
+    py = 32,
+    path = 'modicon.png'
+  }
