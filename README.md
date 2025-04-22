@@ -121,7 +121,7 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 103. Palossand as Castle
 104. Hisuian Voltorb as Smiley Face
 105. Charmeleon as Campfire
-106. Gimmighoul as Golden Ticket
+106. Gimmighoul (Roaming Form) as Golden Ticket
 107. Marowak as Mr.Bones
 108. Throh and Sawk as Acrobat
 109. Girafarig and Farigiraf as Sock and Buskin
