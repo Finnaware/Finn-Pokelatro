@@ -35,14 +35,14 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 17. Pikachu? as Joker Stencil
 18. Kommo-o as Four Fingers
 19. Mime Jr. as Mime
-20. Furfrou as Credit Card
+20. Furfrou (Normal) as Credit Card
 21. Honedge as Ceremonial Dagger
 22. Chimecho as Banner
 23. Steelix as Mystic Summit
 24. Geodude as Marble Joker
 25. Sinistea as Loyalty Card
 26. Rowlet as 8 Ball
-27. Missingno. as Misprint
+27. Missingno. (Ghost) as Misprint
 28. Dusclops as Dusk
 29. Annihilape as Raised Fist
 30. Mr. Mime as Chaos the Clown
