@@ -157,12 +157,12 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 139. Mega Rayquaza and Deoxys (Normal) as Satellite
 140. Inteleon as Shoot the Moon
 141. Flutter Mane as Driver's License
-142. Chimecho as Cartomancer
-143. Minior as Astronomer
+142. Hatterene as Cartomancer
+143. Minior (Meteor Form) as Astronomer
 144. Slugma as Burnt Joker
 145. Tsareena as Bootstraps
 146. Arceus as Canio
 147. Dialga as Triboulet
 148. Palkia as Yorick
 149. Yveltal as Chicot
-150. Giratina as Perkeo
+150. Giratina (Altered Forme) as Perkeo
