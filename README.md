@@ -111,7 +111,7 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 93. Tauros as Bull
 94. Soda Pop (Dipplin) as Diet Cola
 95. Charizard as Trading Card
-96. Unown and Scorbunny as Flash Card
+96. Unown (J, O, K, E, R) and Scorbunny as Flash Card
 97. Accelgor as Popcorn
 98. Scrafty as Spare Trousers
 99. Relicanth as Ancient Joker
