@@ -7,7 +7,7 @@
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokélatro
---- VERSION: 2.1.0
+--- VERSION: 3.0.0
 --- DEPENDENCIES: [malverk]
 
 Malverk.badges.badge_region = function(self, card, badges)
@@ -15,36 +15,92 @@ Malverk.badges.badge_region = function(self, card, badges)
 end
 
 AltTexture({
-    key = 'finn_poke_jokers',
+    key = 'poke_jokers',
     set = 'Joker',
-    path = 'finn_poke_jokers.png',
+    path = 'poke_jokers.png',
     display_pos = 'j_hack',
     original_sheet = true,
     localization = true
 })
 
 AltTexture({
-    key = 'finn_poke_planets',
+    key = 'poke_planets',
     set = 'Planet',
-    path = 'finn_poke_cards.png',
+    path = 'poke_cards.png',
     original_sheet = true,
     localization = true
 })
 
 AltTexture({
-    key = 'finn_poke_boosters',
+    key = 'poke_boosters',
     set = 'Booster',
-    path = 'finn_poke_boosters.png',
+    path = 'poke_boosters.png',
     original_sheet = true,
     localization = true
 })
 
-TexturePack{
-    key = 'finn_cards',
+AltTexture({
+    key = 'poke_spectrals',
+    set = 'Spectral',
+    path = 'poke_cards.png',
+    soul = 'poke_enhancers.png',
+    original_sheet = true,
+    localization = true
+})
+
+AltTexture({
+    key = 'poke_tarots',
+    set = 'Tarot',
+    path = 'poke_cards.png',
+    original_sheet = true,
+    localization = true
+})
+
+AltTexture({
+    key = 'poke_blinds',
+    set = 'Blind',
+    path = 'poke_blinds.png',
+    frames = 21,
+    original_sheet = true,
+    localization = true
+})
+
+AltTexture({
+    key = 'poke_tags',
+    set = 'Tag',
+    path = 'poke_tags.png',
+    original_sheet = true,
+    localization = true
+})
+
+AltTexture({
+    key = 'poke_seals',
+    set = 'Seal',
+    path = 'poke_enhancers.png',
+    original_sheet = true,
+    localization = true
+})
+
+AltTexture({
+    key = 'poke_vouchers',
+    set = 'Voucher',
+    path = 'poke_vouchers.png',
+    original_sheet = true,
+    localization = true
+})
+
+TexturePack {
+    key = 'cards',
     textures = {
-    'finnpoke_finn_poke_jokers',
-    'finnpoke_finn_poke_planets',
-    'finnpoke_finn_poke_boosters'
+        'finnpoke_poke_jokers',
+        'finnpoke_poke_planets',
+        'finnpoke_poke_boosters',
+        'finnpoke_poke_spectrals',
+        'finnpoke_poke_tarots',
+        'finnpoke_poke_blinds',
+        'finnpoke_poke_tags',
+        'finnpoke_poke_seals',
+        'finnpoke_poke_vouchers',
     },
 }
 
@@ -53,4 +109,4 @@ SMODS.Atlas {
     px = 32,
     py = 32,
     path = 'modicon.png'
-  }
+}

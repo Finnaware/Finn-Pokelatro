@@ -7,7 +7,46 @@ return {
 
     descriptions = {
         alt_texture = {
-            alt_tex_finnpoke_finn_poke_boosters = {
+            alt_tex_finnpoke_poke_vouchers = {
+                v_planet_merchant = {
+                    name = "Local Trickster",
+                    text = {
+                        "{C:planet}Region{} cards appear",
+                        "{C:attention}#1#X{} more frequently",
+                        "in the shop",
+                    },
+                },
+                v_planet_tycoon = {
+                    name = "International Spy",
+                    text = {
+                        "{C:planet}Region{} cards appear",
+                        "{C:attention}#1#X{} more frequently",
+                        "in the shop",
+                    },
+                },
+                name = "Vouchers"
+            },
+
+            alt_tex_finnpoke_poke_seals = {
+                name = "Seals"
+            },
+
+            alt_tex_finnpoke_poke_tags = {
+                name = "Tags"
+            },
+
+            alt_tex_finnpoke_poke_blinds = {
+                name = "Blinds"
+            },
+
+            alt_tex_finnpoke_poke_spectrals = {
+                name = "Spectrals"
+            },
+
+            alt_tex_finnpoke_poke_tarots = {
+                name = "Tarots"
+            },
+            alt_tex_finnpoke_poke_boosters = {
                 p_buffoon_normal = {
                     name = "Pokémon Pack",
                 },
@@ -29,7 +68,7 @@ return {
                 name = "Boosters"
             },
 
-            alt_tex_finnpoke_finn_poke_planets = {
+            alt_tex_finnpoke_poke_planets = {
                 c_ceres = {
                     name = "Almia",
                     badge = "badge_region"
@@ -81,7 +120,7 @@ return {
                 name = "Planets"
             },
 
-            alt_tex_finnpoke_finn_poke_jokers = {
+            alt_tex_finnpoke_poke_jokers = {
                 j_8_ball = {
                     name = "Rowlet",
                 },
@@ -197,7 +236,7 @@ return {
                     name = "Soda Pop",
                 },
                 j_dna = {
-                    name = "DNA",
+                    name = "Mew",
                 },
                 j_drivers_license = {
                     name = "Driver's License",
@@ -536,7 +575,7 @@ return {
             },
         },
         texture_packs = {
-            texpack_finnpoke_finn_cards = {
+            texpack_finnpoke_cards = {
                 name = "Finn's Pokélatro",
                 text = {
                     "Retextures parts of the game",
