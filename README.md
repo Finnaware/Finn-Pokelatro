@@ -4,6 +4,8 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 
 Also joins us on our Thread in the official Balatro discord [here](https://discord.com/channels/1116389027176787968/1326197297553342505)
 
+[Miraheze wik](https://balatromods.miraheze.org/wiki/Finn%27s_Pok%C3%A9latro)
+
 ## How to download and install
 
 Click the "<> Code" button then click "Download zip" 
@@ -57,9 +59,9 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 39. Seviper as Even Steven
 40. Zangoose as Odd Todd
 41. Alakazam as Scholar
-42. Trainer Card (Braixen) as Business Card
+42. Trainer Card as Business Card
 43. Cosmog as Supernova
-44. Shuckle as Ride the Bus
+44. Wishiwashi (School Form) as Ride the Bus
 45. Beheeyem as Space Joker
 46. Exeggcute as Egg
 47. Thievul as Burglar
@@ -84,7 +86,7 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 66. Litwick as Séance
 67. Pidgey as Riff-Raff
 68. Crobat as Vampire
-69. Gardevoir as Shortcut
+69. Elgyem as Shortcut
 70. Rotom as Hologram
 71. AZ Floette as Vagabond
 72. Slowking as Baron
@@ -111,13 +113,13 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 93. Tauros as Bull
 94. Soda Pop (Dipplin) as Diet Cola
 95. Charizard as Trading Card
-96. Unown (J, O, K, E, R) and Scorbunny as Flash Card
+96. Unown (J, O, K, E, R, S) and Scorbunny as Flash Card
 97. Accelgor as Popcorn
 98. Scrafty as Spare Trousers
 99. Relicanth as Ancient Joker
 100. Sinistcha as Ramen
 101. Rotom Pokédex as Walkie Talkie
-102. Goodra as Seltzer
+102. Sliggoo as Seltzer
 103. Palossand as Castle
 104. Hisuian Voltorb as Smiley Face
 105. Charmeleon as Campfire
@@ -166,3 +168,110 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 148. Palkia as Yorick
 149. Yveltal as Chicot
 150. Giratina (Altered Forme) as Perkeo
+???. Undiscoverd Joker as Decamark
+
+## Current List of Pokémon and Tarot Pairs
+Bibarel as Fool
+Braixen as Magician
+Gardevoir as High Priestess
+Diancie as Empress
+Empoleon as Emperor
+Alolan Raichu as Hierophant
+Indeedee (Male and Female) Lovers
+Persian as Chariot
+Cobalion as Justice
+Drizzile as Hermit
+Metronome (Clafairy) Wheel of Fortune
+Machoke as Strength
+Blacephalon as Hanged man
+Shadow Rider Calyrex as Death
+Temperance as Wobbuffet
+Giratina (Origin Forme) as Devil
+Brass Tower (Ho-ho) as Tower
+Cleffa as Star
+Lunatone as Moon
+Solrock as Sun
+Jirachi (ft. Ditto, Mime Jr. and Smeargle) as Judgement
+Torterra as World
+
+## Current List of Pokémon/Region and Spectral Pairs
+
+Honchcrow as Familiar
+Dusknoir as Grim
+Mismagius as Incantation
+Gimmighoul (Chest Form) Talisman
+Mega Lucario as Aura
+Banette as Wraith
+Sigilygh as Sigil
+Unown (A, B, C, D, E ,F ,G ,H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, !, ?) as Ouija
+Spiratomb as Ectoplasm
+Magcargo as Immolate
+Cofagrigus as Ankh
+Hisuan Zoroark as Deja vu
+Mega Sableye as Hex
+Hypno as Trance
+Lampent as Medium
+Wyrdeer as Crypid
+Master Ball as Soul
+Distortion World as Blackhole
+
+## Current List of Region and Planet Pairs
+
+Johto as Mercury
+Hoenn as Venus
+Sinnoh as Earth
+Unova as Mars
+Kalos as Jupiter
+Alola as Saturn
+Galar as Uranus
+Paldea as Neptune
+Kanto as Pluto
+Orre as Planet X
+Almia as Ceres
+Fiore as Eris
+Undiscorved Planet as Decamark
+
+## Current List of Pokémon and Blinds Pairs
+
+Unown (𐤅‎) as The Hook
+Unown (𐤀) as The Ox
+Unown (𐤁‎) as The House
+Unown (𐤇‎) as The Wall
+Unown (𐤈) as The Wheel
+Unown (𐤉‎) as The Arm
+Unown (𐤂‎) as The Club
+Unown (𐤃‎) as The Fish
+Unown (𐤊‎) as The Psychic
+Unown (𐤋) as The Goad
+Unown (𐤌‎) as The Water
+Unown (𐤄‎) as The Window
+Unown (𐤆‎) as The Manacle
+Unown (𐤏) as The Eye 
+Unown (𐤐‎) as The Mouth
+Unown (𐤑‎) as The Plant
+Unown (𐤍‎) as The Serpent
+Unown (𐤎‎) as The Pillar
+Unown (𐤒‎) as The Neddle
+Unown (𐤓‎) as The Head
+Unown (𐤔‎) as The Tooth
+Unown (Flint) as The Flint
+Unown (𐤕‎) as The Mark
+ Unown (?) as Undiscoverd Blind
+
+## Current List of Pokémon and Tag Pairs
+
+Dratini as Rare Tag
+Politoed as Uncommon Tag
+Rattata as Buffuon Tag
+
+## Current List of Pokémon and Seal Pairs
+
+Gold Seal as Gimmighoul (Chest Form)
+Red Seal as Hisuan Zoroark
+Blue Seal as Hypno
+Purple Seal as Lampent
+
+## Current List of Pokémon and Voucher Pairs
+
+Teddiursa as Hone
+Ursaring as Glow Up
