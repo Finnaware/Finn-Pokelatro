@@ -40,6 +40,9 @@ return {
             },
 
             alt_tex_finnpoke_poke_spectrals = {
+                c_black_hole = {
+                    name = "Distortion World",
+                },
                 name = "Spectrals"
             },
 
