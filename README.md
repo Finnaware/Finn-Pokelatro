@@ -173,105 +173,105 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 ## Current List of Pokémon and Tarot Pairs
 1. Bibarel as Fool
 2. Braixen as Magician
-Gardevoir as High Priestess
-Diancie as Empress
-Empoleon as Emperor
-Alolan Raichu as Hierophant
-Indeedee (Male and Female) Lovers
-Persian as Chariot
-Cobalion as Justice
-Drizzile as Hermit
-Metronome (Clafairy) Wheel of Fortune
-Machoke as Strength
-Blacephalon as Hanged man
-Shadow Rider Calyrex as Death
-Temperance as Wobbuffet
-Giratina (Origin Forme) as Devil
-Brass Tower (Ho-ho) as Tower
-Cleffa as Star
-Lunatone as Moon
-Solrock as Sun
-Jirachi (ft. Ditto, Mime Jr. and Smeargle) as Judgement
-Torterra as World
+3. Gardevoir as High Priestess
+4.Diancie as Empress
+5. Empoleon as Emperor
+6. Alolan Raichu as Hierophant
+7. Indeedee (Male and Female) Lovers
+8. Persian as Chariot
+9. Cobalion as Justice
+10. Drizzile as Hermit
+11. Metronome (Clafairy) Wheel of Fortune
+12. Machoke as Strength
+13. Blacephalon as Hanged man
+14. Shadow Rider Calyrex as Death
+15.Temperance as Wobbuffet
+16. Giratina (Origin Forme) as Devil
+17. Brass Tower (Ho-ho) as Tower
+18.Cleffa as Star
+19. Lunatone as Moon
+20. Solrock as Sun
+21. Jirachi (ft. Ditto, Mime Jr. and Smeargle) as Judgement
+22. Torterra as World
 
 ## Current List of Pokémon/Region and Spectral Pairs
 
-Honchcrow as Familiar
-Dusknoir as Grim
-Mismagius as Incantation
-Gimmighoul (Chest Form) Talisman
-Mega Lucario as Aura
-Banette as Wraith
-Sigilygh as Sigil
-Unown (A, B, C, D, E ,F ,G ,H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, !, ?) as Ouija
-Spiratomb as Ectoplasm
-Magcargo as Immolate
-Cofagrigus as Ankh
-Hisuan Zoroark as Deja vu
-Mega Sableye as Hex
-Hypno as Trance
-Lampent as Medium
-Wyrdeer as Crypid
-Master Ball as Soul
-Distortion World as Blackhole
+1. Honchcrow as Familiar
+2. Dusknoir as Grim
+3. Mismagius as Incantation
+4. Gimmighoul (Chest Form) Talisman
+5. Mega Lucario as Aura
+6. Banette as Wraith
+7. Sigilygh as Sigil
+8. Unown (A, B, C, D, E ,F ,G ,H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, !, ?) as Ouija
+9. Spiratomb as Ectoplasm
+10. Magcargo as Immolate
+11. Cofagrigus as Ankh
+12. Hisuan Zoroark as Deja vu
+13. Mega Sableye as Hex
+14. Hypno as Trance
+15. Lampent as Medium
+16. Wyrdeer as Crypid
+17. Master Ball as Soul
+18. Distortion World as Blackhole
 
 ## Current List of Region and Planet Pairs
 
-Johto as Mercury
-Hoenn as Venus
-Sinnoh as Earth
-Unova as Mars
-Kalos as Jupiter
-Alola as Saturn
-Galar as Uranus
-Paldea as Neptune
-Kanto as Pluto
-Orre as Planet X
-Almia as Ceres
-Fiore as Eris
-Undiscorved Planet as Decamark
+1. Johto as Mercury
+2. Hoenn as Venus
+3. Sinnoh as Earth
+4. Unova as Mars
+5. Kalos as Jupiter
+6. Alola as Saturn
+7. Galar as Uranus
+8. Paldea as Neptune
+9. Kanto as Pluto
+10. Orre as Planet X
+11. Almia as Ceres
+12. Fiore as Eris
+13. Undiscorved Planet as Decamark
 
 ## Current List of Pokémon and Blinds Pairs
 
-Unown (𐤅‎) as The Hook
-Unown (𐤀) as The Ox
-Unown (𐤁‎) as The House
-Unown (𐤇‎) as The Wall
-Unown (𐤈) as The Wheel
-Unown (𐤉‎) as The Arm
-Unown (𐤂‎) as The Club
-Unown (𐤃‎) as The Fish
-Unown (𐤊‎) as The Psychic
-Unown (𐤋) as The Goad
-Unown (𐤌‎) as The Water
-Unown (𐤄‎) as The Window
-Unown (𐤆‎) as The Manacle
-Unown (𐤏) as The Eye 
-Unown (𐤐‎) as The Mouth
-Unown (𐤑‎) as The Plant
-Unown (𐤍‎) as The Serpent
-Unown (𐤎‎) as The Pillar
-Unown (𐤒‎) as The Neddle
-Unown (𐤓‎) as The Head
-Unown (𐤔‎) as The Tooth
-Unown (Flint) as The Flint
-Unown (𐤕‎) as The Mark
- Unown (?) as Undiscoverd Blind
+1. Unown (𐤅‎) as The Hook
+2. Unown (𐤀) as The Ox
+3. Unown (𐤁‎) as The House
+4. Unown (𐤇‎) as The Wall
+5. Unown (𐤈) as The Wheel
+6. Unown (𐤉‎) as The Arm
+7. Unown (𐤂‎) as The Club
+8. Unown (𐤃‎) as The Fish
+9. Unown (𐤊‎) as The Psychic
+10. Unown (𐤋) as The Goad
+11. Unown (𐤌‎) as The Water
+12. Unown (𐤄‎) as The Window
+13. Unown (𐤆‎) as The Manacle
+14. Unown (𐤏) as The Eye 
+15. Unown (𐤐‎) as The Mouth
+16. Unown (𐤑‎) as The Plant
+17. Unown (𐤍‎) as The Serpent
+18. Unown (𐤎‎) as The Pillar
+19. Unown (𐤒‎) as The Neddle
+20. Unown (𐤓‎) as The Head
+21. Unown (𐤔‎) as The Tooth
+22. Unown (Flint) as The Flint
+23. Unown (𐤕‎) as The Mark
+24. Unown (?) as Undiscoverd Blind
 
 ## Current List of Pokémon and Tag Pairs
 
-Dratini as Rare Tag
-Politoed as Uncommon Tag
-Rattata as Buffuon Tag
+1. Dratini as Rare Tag
+2. Politoed as Uncommon Tag
+3. Rattata as Buffuon Tag
 
 ## Current List of Pokémon and Seal Pairs
 
-Gold Seal as Gimmighoul (Chest Form)
-Red Seal as Hisuan Zoroark
-Blue Seal as Hypno
-Purple Seal as Lampent
+1. Gold Seal as Gimmighoul (Chest Form)
+2. Red Seal as Hisuan Zoroark
+3. Blue Seal as Hypno
+4. Purple Seal as Lampent
 
 ## Current List of Pokémon and Voucher Pairs
 
-Teddiursa as Hone
-Ursaring as Glow Up
+1. Teddiursa as Hone
+2. Ursaring as Glow Up
