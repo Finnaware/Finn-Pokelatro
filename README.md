@@ -171,8 +171,8 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 ???. Undiscoverd Joker as Decamark
 
 ## Current List of Pokémon and Tarot Pairs
-Bibarel as Fool
-Braixen as Magician
+1. Bibarel as Fool
+2. Braixen as Magician
 Gardevoir as High Priestess
 Diancie as Empress
 Empoleon as Emperor
