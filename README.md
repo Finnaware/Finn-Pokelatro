@@ -4,7 +4,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk)
 
 Also joins us on our Thread in the official Balatro discord [here](https://discord.com/channels/1116389027176787968/1326197297553342505)
 
-[Miraheze wik](https://balatromods.miraheze.org/wiki/Finn%27s_Pok%C3%A9latro)
+[Miraheze wiki](https://balatromods.miraheze.org/wiki/Finn%27s_Pok%C3%A9latro)
 
 ## How to download and install
 
