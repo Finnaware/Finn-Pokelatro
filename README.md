@@ -168,7 +168,7 @@ kenidur1561, dusqii, thezamos, kostyurik, h4yt3rcl4n, gaydryad
 148. Palkia as Yorick
 149. Yveltal as Chicot
 150. Giratina (Altered Forme) as Perkeo
-???. Undiscoverd Joker as Decamark
+000. Undiscoverd Joker as Decamark
 
 ## Current List of Pokémon and Tarot Pairs
 1. Bibarel as Fool
