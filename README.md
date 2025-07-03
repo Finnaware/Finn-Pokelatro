@@ -1,6 +1,6 @@
 Retextures parts of the game be to be pokémon themed!
 
-Requires [Malverk](https://github.com/Eremel/Malverk)
+Requires [Malverk](https://github.com/Eremel/Malverk) and [Steamodded](https://github.com/Steamodded/smods)
 
 Also joins us on our Thread in the official Balatro discord [here](https://discord.com/channels/1116389027176787968/1326197297553342505)
 
